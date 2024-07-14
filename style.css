@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  width: 100vw;
+  height: 100vh;
+}
+
+.cabecalho {
+    width: 100%;
+  position: absolute;
+  top: 0;
+  font-weight: bold;
+  letter-spacing: 0.23rem;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  text-align: center;
+  box-sizing: border-box;
+  font-weight: bold;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid coral;
+}
+
+
+
+.cabecalho_menu {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.imagem {
+  margin-top: 5vh;
+  width: 50vw;
+  height: 50vh;
+}
