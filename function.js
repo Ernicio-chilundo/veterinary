@@ -1,0 +1,1 @@
+var cabecalho = document.getElementById("cabecalho")
